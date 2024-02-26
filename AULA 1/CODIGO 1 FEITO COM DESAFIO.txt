@@ -31,7 +31,7 @@ memory usage: 40.2+ KB
 dados2 = pd.read_csv("/content/ARQUIVO SUS DATA DE PROCESSAMENTO.csv", encoding="ISO 8859-1", skiprows=3, sep=";", skipfooter=12, thousands=".", decimal=",", usecols=[188])
 dados2.head()
 
-
+#atualizei
 2023/Ago
 0	8737
 1	5051
